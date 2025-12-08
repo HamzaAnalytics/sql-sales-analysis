@@ -24,4 +24,4 @@ SQL (PostgreSQL / MySQL)
 
 ## Results
 The SQL queries were executed on sample data.  
-The outputs, including total revenue, top-selling product, revenue by country, and monthly revenue trends, are available in the `/results` folder as screenshots.
+The outputs, including total revenue, top-selling product, revenue by country, and monthly revenue trends, are available in the `/total_revenue_result.pdf` folder as screenshots.
