@@ -14,8 +14,11 @@ It includes schema creation, sample data, and analytical queries.
   - Revenue by country
   - Monthly revenue trends
 
-## Technologies
-SQL (PostgreSQL / MySQL)
+
+## Tools & Technologies
+- SQL
+- MySQL / PostgreSQL
+- Excel
 
 ## How to run
 1. Run `schema.sql` to create tables.
